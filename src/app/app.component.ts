@@ -10,7 +10,7 @@ export class AppComponent {
     {
       title: 'Stranger Things',
       imageUrl: 'https://es.web.img3.acsta.net/pictures/22/05/14/13/26/5638861.jpg',
-      description: 'A group of kids investigates supernatural occurrences in their small town.'
+      description: 'Set in the 1980s, the series centers around the residents of the fictional small town of Hawkins, Indiana, as they are plagued by a hostile alternate dimension known as the Upside Down, after a nearby human experimentation facility opens a gateway between Earth and the Upside Down.'
     },
     {
       title: 'The Crown',
