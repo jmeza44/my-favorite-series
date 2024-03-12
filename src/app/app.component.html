@@ -4,6 +4,14 @@
     <div class="series-details">
       <h3>{{ series.title }}</h3>
       <p>{{ series.description }}</p>
+      <div class="categories">
+        <strong>Categories:</strong>
+        <span *ngFor="let category of series.categories">{{ category }}</span>
+      </div>
+      <div class="actors">
+        <strong>Main Actors:</strong>
+        <span *ngFor="let actor of series.mainActors">{{ actor }}</span>
+      </div>
     </div>
   </div>
 </div>

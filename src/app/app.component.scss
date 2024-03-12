@@ -30,3 +30,23 @@
 .series-details {
   text-align: center;
 }
+
+.categories,
+.actors {
+  margin-top: 10px;
+}
+
+.categories strong,
+.actors strong {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.categories span,
+.actors span {
+  display: inline-block;
+  margin-right: 10px;
+  background-color: #f0f0f0;
+  padding: 3px 8px;
+  border-radius: 5px;
+}
