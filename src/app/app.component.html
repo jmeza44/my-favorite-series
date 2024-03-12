@@ -1,0 +1,9 @@
+<div class="favorite-series-container">
+  <div *ngFor="let series of favoriteSeries" class="series-card">
+    <img [src]="series.imageUrl" alt="{{ series.title }}" class="series-image">
+    <div class="series-details">
+      <h3>{{ series.title }}</h3>
+      <p>{{ series.description }}</p>
+    </div>
+  </div>
+</div>
