@@ -4,18 +4,19 @@
 }
 
 .series-card {
-  width: 200px;
-  margin: 10px;
+  width: 300px;
+  margin: 20px;
   border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 10px;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .series-image {
   width: 100%;
   height: auto;
-  border-radius: 5px;
-  margin-bottom: 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
 }
 
 .series-details {
