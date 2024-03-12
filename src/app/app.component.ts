@@ -24,7 +24,7 @@ export class AppComponent {
     },
     {
       title: 'Money Heist',
-      imageUrl: 'https://via.placeholder.com/150',
+      imageUrl: 'https://i0.wp.com/thsindex.org/wp-content/uploads/2023/04/Money-Heist-was-first-released-on-Antena-3-in-Spain-in-2017-Netflix.jpg?fit=1920%2C2560&ssl=1',
       description: 'A criminal mastermind recruits a group of people to carry out a major heist.'
     }
   ];
