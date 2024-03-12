@@ -15,7 +15,7 @@ export class AppComponent {
     {
       title: 'The Crown',
       imageUrl: 'https://es.web.img3.acsta.net/pictures/22/10/18/00/44/2538124.jpg',
-      description: 'The trials and tribulations of Queen Elizabeth II and the royal family.'
+      description: 'The Crown portrays the life of Queen Elizabeth II from her wedding in 1947 to Philip, Duke of Edinburgh, until the early 21st century: The first season covers 1947 to 1955, including Winston Churchill resigning as prime minister and the Queen\'s sister Princess Margaret deciding not to marry Peter Townsend.'
     },
     {
       title: 'Black Mirror',
