@@ -20,7 +20,7 @@ export class AppComponent {
     {
       title: 'Black Mirror',
       imageUrl: 'https://hips.hearstapps.com/hmg-prod/images/black-mirror-font-1513096756.jpg?crop=1xw:1xh;center,top&resize=980:*',
-      description: 'An anthology series exploring a twisted, high-tech multiverse.'
+      description: 'The black mirror is the screen that rules our lives. Taking contemporary phenomena (ranging from the wild popularity of talent shows on TV to the impact of social media and smartphones on our lives) as a starting point and speculate how such phenomena could/would evolve in the future.'
     },
     {
       title: 'Money Heist',
