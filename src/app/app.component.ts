@@ -19,7 +19,7 @@ export class AppComponent {
     },
     {
       title: 'Black Mirror',
-      imageUrl: 'https://via.placeholder.com/150',
+      imageUrl: 'https://hips.hearstapps.com/hmg-prod/images/black-mirror-font-1513096756.jpg?crop=1xw:1xh;center,top&resize=980:*',
       description: 'An anthology series exploring a twisted, high-tech multiverse.'
     },
     {
