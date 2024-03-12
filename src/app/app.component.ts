@@ -14,7 +14,7 @@ export class AppComponent {
     },
     {
       title: 'The Crown',
-      imageUrl: 'https://via.placeholder.com/150',
+      imageUrl: 'https://es.web.img3.acsta.net/pictures/22/10/18/00/44/2538124.jpg',
       description: 'The trials and tribulations of Queen Elizabeth II and the royal family.'
     },
     {
