@@ -25,7 +25,7 @@ export class AppComponent {
     {
       title: 'Money Heist',
       imageUrl: 'https://i0.wp.com/thsindex.org/wp-content/uploads/2023/04/Money-Heist-was-first-released-on-Antena-3-in-Spain-in-2017-Netflix.jpg?fit=1920%2C2560&ssl=1',
-      description: 'A criminal mastermind recruits a group of people to carry out a major heist.'
+      description: 'Fresh audience score. A criminal mastermind who goes by "The Professor" has a plan to pull off the biggest heist in recorded history -- to print billions of euros in the Royal Mint of Spain. To help him carry out the ambitious plan, he recruits eight people with certain abilities and who have nothing to lose.'
     }
   ];
 }
