@@ -9,7 +9,7 @@ export class AppComponent {
   favoriteSeries = [
     {
       title: 'Stranger Things',
-      imageUrl: 'https://via.placeholder.com/150',
+      imageUrl: 'https://es.web.img3.acsta.net/pictures/22/05/14/13/26/5638861.jpg',
       description: 'A group of kids investigates supernatural occurrences in their small town.'
     },
     {
